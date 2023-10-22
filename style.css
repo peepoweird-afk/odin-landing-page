@@ -48,11 +48,13 @@ a:visited {
     gap: 2rem
 }
 
-
-
 .content {
     display: flex;
     flex-grow: 1;
+}
+
+.hero-section {
+    background-color: #1F2937;
 }
 
 .footer {
