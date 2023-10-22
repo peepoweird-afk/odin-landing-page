@@ -27,6 +27,7 @@ ul {
 
 .links {
     display: flex;
+    gap: 2rem
 }
 
 .secondary-text {
