@@ -45,16 +45,20 @@ a:visited {
 
 .links {
     display: flex;
-    gap: 2rem
+    gap: 2rem;
+
 }
 
 .content {
     display: flex;
     flex-grow: 1;
+
 }
 
 .hero-section {
     background-color: #1F2937;
+    padding-inline: 8rem;
+
 }
 
 .footer {
