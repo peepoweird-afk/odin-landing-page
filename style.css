@@ -24,6 +24,10 @@ a:hover {
     border-block-end: 2px solid white;
 }
 
+h2 {
+    margin-block: 1.5rem;
+}
+
 button {
     background-color: #3882f6;
     border: none;
