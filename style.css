@@ -72,6 +72,9 @@ button {
     background-color: #1F2937;
     padding-inline: 8rem;
     display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 2rem;
 
 }
 
