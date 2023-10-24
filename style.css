@@ -115,6 +115,8 @@ button {
 dl {
     display: flex;
     flex-direction: column;
+    width: 150px;
+
 }
 
 
@@ -128,6 +130,8 @@ dd {
     border-radius: 7px;
     height: 150px;
     width: 150px;
+    box-sizing: border-box;
+
 }
 
 .list-img img {
