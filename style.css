@@ -105,6 +105,10 @@ dd {
     flex-grow: 1;
 }
 
+.images-section {
+    padding-inline: 12rem;
+}
+
 .images-list {
     display: flex;
     justify-content: space-between;
