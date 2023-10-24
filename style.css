@@ -122,7 +122,11 @@ dd {
     width: 150px;
 }
 
-
+.list-img img {
+    height: 100%;
+    width: 100%;  
+    object-fit: cover;
+}
 .footer {
     background-color: #1F2937;
     display: flex;
