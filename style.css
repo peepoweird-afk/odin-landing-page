@@ -44,6 +44,10 @@ button {
     font-weight: 700;
 }
 
+dd {
+    margin: 0
+}
+
 .main-text {
     color: #F9FAF8;
     font-size: 48px;
