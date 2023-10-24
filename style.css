@@ -125,6 +125,7 @@ dd {
     margin-inline: 0;
     margin-block-start: 0.5rem;
     text-align: center;
+    color: rgb(160, 160, 160);
 }
 
 .list-img {
