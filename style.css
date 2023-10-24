@@ -108,7 +108,8 @@ button {
 
 .images-list {
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
+    gap: 4rem
 
 }
 
@@ -121,7 +122,8 @@ dl {
 
 
 dd {
-    margin: 0;
+    margin-inline: 0;
+    margin-block-start: 0.5rem;
     text-align: center;
 }
 
