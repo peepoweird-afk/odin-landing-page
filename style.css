@@ -44,9 +44,6 @@ button {
     font-weight: 700;
 }
 
-dd {
-    margin: 0
-}
 
 .main-text {
     color: #F9FAF8;
@@ -118,6 +115,12 @@ dd {
 dl {
     display: flex;
     flex-direction: column;
+}
+
+
+dd {
+    margin: 0;
+    text-align: center;
 }
 
 .list-img {
