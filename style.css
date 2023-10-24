@@ -19,6 +19,11 @@ a:visited {
     color: #E5E7EB;
 }
 
+a:hover {
+    border-block-start: 2px solid transparent;
+    border-block-end: 2px solid white;
+}
+
 button {
     background-color: #3882f6;
     border: none;
