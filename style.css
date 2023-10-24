@@ -19,6 +19,17 @@ a:visited {
     color: #E5E7EB;
 }
 
+button {
+    background-color: #3882f6;
+    border: none;
+    border-radius: 4px;
+    padding-inline: 1.3rem;
+    padding-block: 0.4rem;
+    color: #F9FAF8;
+    font-size: 14px;
+    font-weight: 700;
+}
+
 .main-text {
     color: #F9FAF8;
     font-size: 48px;
@@ -60,7 +71,21 @@ a:visited {
 .hero-section {
     background-color: #1F2937;
     padding-inline: 8rem;
+    display: flex;
 
+}
+
+.hero-info {
+    flex-grow: 1;
+}
+
+.hero-img {
+    flex-grow: 1;
+}
+
+.hero-img img {
+    max-width: 100%;
+    max-height: 100%
 }
 
 .footer {
