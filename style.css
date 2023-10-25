@@ -163,10 +163,16 @@ dd {
 
 .quote-section {
     background-color: #E5E7EB;
+    display: flex;
+    flex-direction: column;
 }
 
 .quote-text {
     font-size: 36px;
     font-weight: 300;
     font-style: italic;
+}
+
+.sayer {
+    align-self: flex-end;
 }
