@@ -153,13 +153,7 @@ dd {
     object-fit: cover;
 }
 
-.footer {
-    background-color: #1F2937;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    margin-block-start: auto;
-}
+
 
 .quote-section {
     background-color: #E5E7EB;
@@ -183,4 +177,13 @@ dd {
     margin-block-start: 2rem;
     font-weight: 800;
     font-size: 24px;
+}
+
+.footer {
+    background-color: #1F2937;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 2rem;
+    margin-block-start: auto;
 }
