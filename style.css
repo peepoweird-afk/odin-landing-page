@@ -196,6 +196,13 @@ dd {
 
 }
 
+h3 {
+    color: #E5E7EB;
+    font-size: 24px;
+    font-weight: 700;
+    margin: 0;
+}
+
 .footer {
     background-color: #1F2937;
     display: flex;
