@@ -40,7 +40,7 @@ button {
     padding-inline: 1.3rem;
     padding-block: 0.4rem;
     color: #F9FAF8;
-    font-size: 14px;
+    font-size: 20px;
     font-weight: 700;
 }
 
@@ -201,6 +201,10 @@ h3 {
     font-size: 24px;
     font-weight: 700;
     margin: 0;
+}
+
+.lower-button {
+    border: 1px solid #E5E7EB;
 }
 
 .footer {
