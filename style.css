@@ -113,6 +113,13 @@ button {
 
 }
 
+.images-heading {
+    font-size: 36px;
+    font-weight: 800;
+    color: #1F2937;
+
+}
+
 dl {
     display: flex;
     flex-direction: column;
