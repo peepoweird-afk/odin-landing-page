@@ -191,6 +191,9 @@ dd {
     background-color: #3882f6;
     padding-block: 3rem;
     padding-inline: 4rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
 }
 
 .footer {
