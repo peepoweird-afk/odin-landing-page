@@ -107,7 +107,7 @@ button {
     flex-direction: column;
     align-items: center; 
     padding-block: 2rem;   
-    padding-inline: 12rem;
+    padding-inline: 20rem;
 }
 
 .images-list {
@@ -164,7 +164,7 @@ dd {
 .quote-section {
     background-color: #E5E7EB;
     padding-block: 8rem;
-    padding-inline: 12rem;
+    padding-inline: 20rem;
 }
 
 .quote-container {
