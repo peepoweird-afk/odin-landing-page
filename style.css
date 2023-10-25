@@ -86,7 +86,7 @@ button {
 
 .hero-section {
     background-color: #1F2937;
-    padding: 8rem;
+    padding: 10rem;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -180,10 +180,7 @@ dd {
 }
 
 .call-section {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    padding: 8rem;
+    padding: 10rem;
 
 }
 
