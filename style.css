@@ -164,10 +164,13 @@ dd {
 
 .quote-section {
     background-color: #E5E7EB;
-    display: flex;
-    flex-direction: column;
     padding-block: 8rem;
     padding-inline: 12rem;
+}
+
+.quote-container {
+    display: flex;
+    flex-direction: column;
 }
 
 .quote-text {
