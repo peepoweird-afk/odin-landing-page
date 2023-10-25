@@ -153,6 +153,7 @@ dd {
     width: 100%;  
     object-fit: cover;
 }
+
 .footer {
     background-color: #1F2937;
     display: flex;
@@ -165,6 +166,8 @@ dd {
     background-color: #E5E7EB;
     display: flex;
     flex-direction: column;
+    padding-block: 8rem;
+    padding-inline: 12rem;
 }
 
 .quote-text {
