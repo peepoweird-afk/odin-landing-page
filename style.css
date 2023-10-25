@@ -194,6 +194,9 @@ dd {
     display: flex;
     align-items: center;
     justify-content: space-between;
+    border: none;
+    border-radius: 8px;
+
 }
 
 .footer {
