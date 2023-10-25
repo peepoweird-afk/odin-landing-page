@@ -180,4 +180,5 @@ dd {
 
 .sayer {
     align-self: flex-end;
+    margin-block-start: 2rem;
 }
