@@ -160,3 +160,13 @@ dd {
     align-items: center;
     margin-block-start: auto;
 }
+
+.quote-section {
+    background-color: #E5E7EB;
+}
+
+.quote-text {
+    font-size: 36px;
+    font-weight: 300;
+    font-style: italic;
+}
