@@ -185,6 +185,12 @@ dd {
     align-items: center;
 }
 
+.call-container {
+    background-color: #3882f6;
+    padding-block: 3rem;
+    padding-inline: 4rem;
+}
+
 .footer {
     background-color: #1F2937;
     display: flex;
